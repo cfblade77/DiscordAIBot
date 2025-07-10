@@ -93,4 +93,4 @@ intents.message_content = True
 
 client = MyClient(intents=intents)
 client.run(
-    'MTE1OTA4ODI4Mzg5MzEyNTE4MA.G1apIk.XGf0oNbX1J24LrTfU_MyNABk1LH98LAUY4r-mQ', log_handler=None)
+    'enter your discord token here', log_handler=None)
